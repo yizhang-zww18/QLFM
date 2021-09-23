@@ -43,9 +43,10 @@ QLFM
 |---|---index.mat
 |---|---psf_cali2.mat
 |---|---psf_ideal2.mat
-|---|---results
+|---|---readme.md
 |---dataset
 |---|---c1-1.tif
+|---|---readme.md
 |---README.md
 ```
 ## How to use
