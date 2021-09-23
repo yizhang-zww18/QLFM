@@ -1,6 +1,6 @@
 # Data Download guide
 ## To run the demo code
-- you can download the data from the following link:
+- you can download the data from the following link: 
 https://drive.google.com/drive/folders/1cb8kfhWf18GjUKYkGpu1cB-Ul5mx-JwP?usp=sharing
 
 ## To get more data
