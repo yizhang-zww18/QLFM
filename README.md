@@ -9,6 +9,9 @@ Version: 1.0 Copyright: 2021, YI ZHANG, ZHI LU, JIAMINWU, XING LIN, DONG JIANG, 
 - [Citation](#Citation)
 
 ## Overview
+
+Additional example data and experimental PSFs can be downloaded with the following link:
+
 ## Directory structure
 ## How to use
 ### Environment
