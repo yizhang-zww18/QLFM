@@ -3,9 +3,11 @@ matlab code for **"Computational optical sectioning with an incoherent multiscal
 Version: 1.0 Copyright: 2021, YI ZHANG, ZHI LU, JIAMINWU, XING LIN, DONG JIANG, YEYI CAI, JIACHEN XIE, YULING WANG, TIANYI ZHU, XIANGYANG JI, QIONGHAI DAI
 
 ## Contents
-[toc]
+<!-- MarkdownTOC levels="1,2" autolink="true" -->
 
 ## Overview
 ## Directory structure
 ## How to use
 ## Citation
+
+<!-- /MarkdownTOC -->
