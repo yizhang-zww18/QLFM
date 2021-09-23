@@ -9,7 +9,7 @@ Version: 1.0 Copyright: 2021, YI ZHANG, ZHI LU, JIAMINWU, XING LIN, DONG JIANG, 
 - [Citation](#Citation)
 
 ## Overview
-
+This repository provides the implementation of the QLFM reconstruction with different models, including QLFM without scattering using ideal PSFs, QLFM without scattering using calibrated PSFs, QLFM with alternating scattering directions.
 Additional example data and experimental PSFs can be downloaded with the following link:
 
 ## Directory structure
