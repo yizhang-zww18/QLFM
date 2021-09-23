@@ -62,14 +62,15 @@ QLFM
 1. Unpack the package
 2. According to the instructions in the **readme** file in the **psf** folder, download the psf data. 
 3. According to the instructions in the **readme** file in the **dataset** folder, download the sub-aperture data. 
-4. Run the **main.m** file in the **recon_main** folder. In the **main.m**,there are 5 reconstruction models to choose from: 
+4. Run the **main.m** file in the **recon_main** folder. In the **main.m**, there are 5 reconstruction models to choose from: 
   * QLFM_ideal: QLFM without scattering, using ideal psf
   * QLFM_cali: QLFM without scattering, using calibrated psf
   * QLFM_sca_LTR: QLFM with forward scattering 
   * QLFM_sca_RTL: QLFM with backward scattering  
   * QLFM_sca_2D: QLFM with forward and backward scattering 
 
-
+Reconstructed results can be downloaded from the folowing link:
+https://cloud.tsinghua.edu.cn/d/d1f1f4ea99a84b5d8825/
 
 ## Citation
 If you use the code, please cite the reference 
