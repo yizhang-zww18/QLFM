@@ -1,2 +1,2 @@
 # QLFM
-Multiscale scattering model for light field microscopy
+Computational optical sectioning with an incoherent multiscale scattering model for light-field microscopy
