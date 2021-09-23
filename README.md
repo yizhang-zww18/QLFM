@@ -50,11 +50,26 @@ QLFM
 |---README.md
 ```
 ## How to use
+
 ### Environment
 *   MATLAB 2020b (64bit)
 *   Windows 10 64bit 
 *   Intel i9-9820X CPU
 *   NVIDIA TITAN RTX GPU
 *   128G RAM
+
+### Steps
+1. Unpack the package
+2. According to the instructions in the **readme** file in the **psf** folder, download the psf data. 
+3. According to the instructions in the **readme** file in the **dataset** folder, download the sub-aperture data. 
+4. Run the **main.m** file in the **recon_main** folder. In the **main.m**,there are 5 reconstruction models to choose from: 
+  * QLFM_ideal: QLFM without scattering, using ideal psf
+  * QLFM_cali: QLFM without scattering, using calibrated psf
+  * QLFM_sca_LTR: QLFM with forward scattering 
+  * QLFM_sca_RTL: QLFM with backward scattering  
+  * QLFM_sca_2D: QLFM with forward and backward scattering 
+
+
+
 ## Citation
-If you use the code, please cite the xxx
+If you use the code, please cite the reference 
