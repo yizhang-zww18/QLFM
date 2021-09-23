@@ -16,5 +16,6 @@ Version: 1.0 Copyright: 2021, YI ZHANG, ZHI LU, JIAMINWU, XING LIN, DONG JIANG, 
 *   Windows 10 64bit 
 *   Intel i9-9820X CPU
 *   NVIDIA TITAN RTX GPU
+*   128G RAM
 ## Citation
 If you use the code, please cite the xxx
